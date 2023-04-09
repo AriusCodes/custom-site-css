@@ -981,7 +981,7 @@ h2 {
 
 .ws-table-all {border-collapse:collapse;border-spacing:0;width:100%;display:table;border:1px solid #ccc}
 .ws-table-all tr {border-bottom:1px solid #525252}
-.ws-table-all tr:nth-child(odd) {background-color:#828282}.ws-table-all tr:nth-child(even){background-color:#828282}
+.ws-table-all tr:nth-child(odd) {background-color:#828282}.ws-table-all tr:nth-child(even){background-color:#a8a7a7}
 .ws-table-all td,.ws-table-all th {padding:8px 8px;display:table-cell;text-align:left;vertical-align:top}
 .ws-table-all th:first-child, .ws-table-all td:first-child{padding-left:16px}
 
